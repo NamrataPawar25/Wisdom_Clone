@@ -1,0 +1,39 @@
+footer{
+    background-color: rgb(11, 18, 37);
+}
+.ColorWhite{
+    color: white;
+}
+.Colorgray{
+    color: rgb(211, 209, 209);
+}
+.footerUL{
+    font-size: large;
+}
+li::marker {
+    color: white;
+  }
+.footerLI{
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+.customLink:link{
+    text-decoration: none;
+    color: white;
+}
+.customLink:visited{
+    color: white;
+}
+.customLink:hover{
+    color: rgb(17, 40, 35);
+}
+.TopNavBar{
+    font-size: 16px;
+}
+.greenbtn:hover {
+    background-color: rgb(11, 18, 37) !important;
+}
+::placeholder {
+    color: white !important;
+    opacity: 1;
+}
